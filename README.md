@@ -76,10 +76,6 @@ usuario al que se lo envíe. NO puede ser modificado
 
 - Netlify: https://aesthetic-sundae-30a624.netlify.app/
 
-## Colaboradores:
-
-- Emiliano Ruiz Dias (Front-end Developer)
-- Nahuel Demian Fanego Paz (Front-end Developer)
 
 ## Demo:
 
